@@ -1,4 +1,4 @@
-# bangsat
+# SCRIPT FREE
 # git clone https://github.com/RobetX/bangsat
 
 # ls
